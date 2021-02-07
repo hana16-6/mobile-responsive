@@ -87,6 +87,7 @@ h4{
 }
 #welcome{
     padding: 0 20px 20px 20px;
+    overflow: hidden;
 }
 .welcome-text{
     grid-column: 1/6;
